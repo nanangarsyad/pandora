@@ -1,5 +1,5 @@
 certifi
-aiohttp==3.8.4
+aiohttp==3.8.5
 pyreadline==2.1
 requests[socks]==2.28.2
 rich==13.3.1

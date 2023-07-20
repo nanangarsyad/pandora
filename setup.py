@@ -22,7 +22,7 @@ setup(
     include_package_data=True,
     install_requires=[
         'certifi',
-        'aiohttp == 3.8.4',
+        'aiohttp == 3.8.5',
         'pyreadline == 2.1; platform_system == "Windows"',
         'requests[socks] == 2.28.2',
         'rich == 13.3.1',
